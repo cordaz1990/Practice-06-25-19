@@ -9,3 +9,4 @@ print(Henry)
 print(bob)
 print(henry)
 print(tim)
+print(bob0
