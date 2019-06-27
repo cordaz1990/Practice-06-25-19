@@ -1,3 +1,5 @@
 print("Hello")
 print("Hello World")
 print(Danny)
+print(Sally)
+print(olb)
